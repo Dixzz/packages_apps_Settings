@@ -10085,4 +10085,15 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
+
+    <string name="about_rom">About ROM</string> 
+    <string name="about_rom_summary">This contains all information about the ROM</string> 
+    <string name="rom_name">Rom Name</string> 
+    <string name="rom_name_summary">DevilianOS</string> 
+    <string name="rom_developer">Developed By</string> 
+    <string name="rom_developer_summary">Team Devil</string> 
+    <string name="rom_version">ROM Version</string> 
+    <string name="rom_version_summary">1.0</string> 
+    <string name="changelog_title">Changelogs</string> 
+    <string name="changelog_dialog">Soon In WIP</string> 
 </resources>

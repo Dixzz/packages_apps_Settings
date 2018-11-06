@@ -138,4 +138,10 @@
         android:summary="@string/summary_placeholder"
         settings:allowDividerAbove="true"/>
 
+    <Preference android:title="@string/about_rom" android:key="container" android:summary="@string/about_rom_summary"> 
+    <Preference android:title="@string/rom_name" android:summary="@string/rom_name_summary" style="?android:preferenceInformationStyle" /> 
+    <Preference android:title="@string/rom_developer" android:summary="@string/rom_developer_summary" style="?android:preferenceInformationStyle" /> 
+    <Preference android:title="@string/rom_version" android:summary="@string/rom_version_summary" style="?android:preferenceInformationStyle" /> 
+    <Preference android:title="@string/changelog_title" android:key="changelog" android:summary="@string/changelog_dialog" style="?android:preferenceInformationStyle" /> 
+   </Preference>
 </PreferenceScreen>
